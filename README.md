@@ -21,7 +21,7 @@ I'm zhangxing, a passionate expert engineer focus on Mobile and MiniProgram.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-📫 Reach me: 964412214@163.com;
+📫 Reach me: s964412214@163.com;
 
 📈 My GitHub Stats
 
