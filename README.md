@@ -23,6 +23,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📫 Reach me: s964412214@163.com;
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ohguaiguai/count.svg" />
+</p>
+
 📈 My GitHub Stats
 
 <img align="left" style="display:block;width:500px;" src="https://github-readme-stats.vercel.app/api?username=ohguaiguai&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
